@@ -99,6 +99,7 @@ header img{
 .vns-abrir-menu ion-icon{
     color: #ff6600;
     font-size: 40px;
+    display: none;
 }
 
 .menu-mobile{
@@ -487,6 +488,10 @@ footer .line-footer p a{
 
     footer .line-footer{
         text-align: center;
+    }
+
+    .vns-abrir-menu ion-icon{
+        display: block;
     }
 
 }
