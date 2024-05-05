@@ -150,6 +150,10 @@ header img{
 
 
 /* estilo do topo do site */
+.especialidades a {
+    text-decoration: none;  
+    color: inherit;         
+}
 
 section.topo-do-site{
     padding: 40px 4%;
